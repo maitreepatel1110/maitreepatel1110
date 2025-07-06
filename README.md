@@ -34,24 +34,21 @@
 - **Multilingual Sentiment Classifier:**  
   Built a classifier to detect sentiment in multiple languages, leveraging NLP techniques and open-source datasets.
 
-- **[Other Project Name]:**  
-  Brief description (add more projects as needed).
-
 ---
 
 ### 🏆 Achievements & Activities
 
 - **Robotics Club:** Active member and workshop organizer.
 - **Workshops:** Conducted sessions on Python basics and AI fundamentals for juniors.
-- **[Any certifications, awards, or hackathons]**
+- AWS Certified Cloud Practitioner
 
 ---
 
 ### 📫 How to Reach Me
 
 - **Email:** maitree.patel@email.com
-- **LinkedIn:** [linkedin.com/in/maitreepatel](https://www.linkedin.com/in/maitreepatel)
-- **Portfolio:** [Your Portfolio Link] (if available)
+- **LinkedIn:** [linkedin.com/in/maitreepatel](www.linkedin.com/in/maitree-patel-11oct)
+
 
 ---
 
