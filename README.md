@@ -47,7 +47,7 @@
 ### 📫 How to Reach Me
 
 - **Email:** maitreepatel57@gmail.com
-- **LinkedIn:** [linkedin.com/in/maitree-patel-11oct](www.linkedin.com/in/maitree-patel-11oct)
+- **LinkedIn:** [www.linkedin.com/in/maitree-patel-11oct](www.linkedin.com/in/maitree-patel-11oct)
 
 
 ---
